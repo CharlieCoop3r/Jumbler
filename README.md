@@ -1,0 +1,2 @@
+# Jumbler
+This project was completed during my first week of CS 210. The ojective of this project was to be able to take an anagram and find each word it matched with within a given dictionary. Through this project I learned some new skills such as using doctests and working with other files within my computer. I also refined some of my previous computer science knowledge through the use of loops, variables, lists, and strings within this project.
